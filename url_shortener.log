@@ -1,0 +1,33 @@
+2023-12-19 09:23:05,172 - INFO - Shortened URL: https://tinyurl.com/yrwtkmhe
+2023-12-19 09:25:52,098 - INFO - Shortened URL: https://tinyurl.com/yrwtkmhe
+2023-12-19 09:25:54,110 - INFO - Opened in default browser
+2023-12-19 10:16:03,231 - INFO - URL shortened: https://www.youtube.com/watch?v=6VaE5y6yETI -> https://tinyurl.com/ykc8nfpq
+2023-12-19 10:16:16,518 - INFO - URL shortened: https://www.youtube.com/watch?v=mHvQhp_T-64 -> https://tinyurl.com/ywc6z9kw
+2023-12-19 10:16:19,859 - INFO - URL shortened: https://www.youtube.com/watch?v=6VaE5y6yETI -> https://tinyurl.com/ykc8nfpq
+2023-12-19 10:16:24,102 - INFO - URL shortened: https://www.youtube.com/watch?v=mHvQhp_T-64 -> https://tinyurl.com/ywc6z9kw
+2023-12-23 20:57:03,441 - WARNING - Attempted to generate QR Code without entering a URL
+2023-12-23 20:57:18,803 - INFO - QR Code generated
+2024-01-11 21:11:23,293 - WARNING - Empty URL entered
+2024-01-11 21:11:24,206 - WARNING - Empty URL entered
+2024-01-11 21:11:24,502 - WARNING - Empty URL entered
+2024-01-11 21:11:24,717 - WARNING - Empty URL entered
+2024-01-11 21:11:24,909 - WARNING - Empty URL entered
+2024-01-11 21:11:25,118 - WARNING - Empty URL entered
+2024-01-11 21:11:25,806 - WARNING - Empty URL entered
+2024-01-11 21:11:27,373 - WARNING - Attempted to copy URL, but none available
+2024-01-11 21:11:28,438 - WARNING - Attempted to open URL in browser, but none available
+2024-01-11 21:11:30,253 - WARNING - Attempted to open URL in browser, but none available
+2024-01-11 21:11:30,475 - WARNING - Attempted to open URL in browser, but none available
+2024-01-11 21:11:30,686 - WARNING - Attempted to open URL in browser, but none available
+2024-01-11 21:11:30,885 - WARNING - Attempted to open URL in browser, but none available
+2024-01-11 21:11:34,910 - WARNING - Attempted to generate QR Code without entering a URL
+2024-06-19 14:42:37,929 - INFO - URL shortened: https://www.youtube.com/watch?v=yVpvSb_qn28 -> https://tinyurl.com/2ydahmn2
+2024-06-19 14:42:41,938 - INFO - URL expanded: https://www.youtube.com/watch?v=yVpvSb_qn28 -> https://tinyurl.com/2ydahmn2
+2024-06-19 14:42:44,904 - INFO - URL expanded: https://www.youtube.com/watch?v=yVpvSb_qn28 -> https://tinyurl.com/2ydahmn2
+2024-06-19 14:42:50,795 - INFO - URL copied to clipboard
+2024-06-19 14:43:17,039 - INFO - QR Code generated
+2024-06-19 14:49:46,269 - INFO - URL shortened: https://www.youtube.com/watch?v=yVpvSb_qn28 -> https://tinyurl.com/2ydahmn2
+2024-06-19 14:50:04,455 - INFO - URL shortened: https://www.youtube.com/@KamarJERI_Official/videos -> https://tinyurl.com/25n2c5ub
+2024-06-19 14:50:12,491 - INFO - URL shortened: https://www.youtube.com/@KamarJERI_Official/videos -> https://tinyurl.com/25n2c5ub
+2024-06-19 14:50:14,843 - INFO - URL copied to clipboard
+2024-06-19 14:53:12,177 - INFO - URL shortened: https://www.youtube.com/@KamarJERI_Official/videos -> https://tinyurl.com/25n2c5ub
