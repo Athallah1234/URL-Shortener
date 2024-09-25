@@ -48,4 +48,10 @@ Untuk menginstal pustaka yang diperlukan, jalankan perintah berikut:
 Aplikasi ini menyimpan log aktivitas ke file url_shortener.log. Log ini mencatat setiap URL yang diperpendek, diperluas, disalin, dibuka di browser, atau ketika kode QR dibuat.
 
 ## FAQ
+### 1. Apakah aplikasi ini bisa digunakan tanpa koneksi internet?
+Tidak. Aplikasi ini bergantung pada layanan online untuk memperpendek URL, sehingga memerlukan koneksi internet.
+### 2. Bagaimana saya bisa menambahkan layanan pemendek URL lain?
+Anda bisa menambahkan layanan pemendek URL lain dengan memperluas penggunaan pustaka **PyShorteners**. Dokumentasi lengkap dapat ditemukan di [PyShorteners Docs](https://pyshorteners.readthedocs.io/).
+### 3. Bagaimana cara mengatasi kesalahan 'Invalid URL'?
+Pastikan URL yang dimasukkan adalah URL yang benar dengan format yang valid, misalnya dimulai dengan `http://` atau `https://`. Jika URL tersebut valid tetapi masih terjadi kesalahan, silakan coba ulang atau cek apakah layanan pemendek URL sedang mengalami masalah.
 
