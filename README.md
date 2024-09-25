@@ -44,3 +44,7 @@ Untuk menginstal pustaka yang diperlukan, jalankan perintah berikut:
 6. **Auto-Refresh URL**: Aktifkan opsi **Auto-Refresh URL** untuk memperbarui URL secara otomatis setiap 60 detik.
 7. **Lihat Riwayat**: Klik tombol **Show History** untuk melihat URL yang telah diperpendek. Anda juga dapat menghapus atau mengekspor riwayat ke file teks.
 
+### Log Aktivitas
+Aplikasi ini menyimpan log aktivitas ke file url_shortener.log. Log ini mencatat setiap URL yang diperpendek, diperluas, disalin, dibuka di browser, atau ketika kode QR dibuat.
+
+### 
