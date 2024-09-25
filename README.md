@@ -47,4 +47,5 @@ Untuk menginstal pustaka yang diperlukan, jalankan perintah berikut:
 ### Log Aktivitas
 Aplikasi ini menyimpan log aktivitas ke file url_shortener.log. Log ini mencatat setiap URL yang diperpendek, diperluas, disalin, dibuka di browser, atau ketika kode QR dibuat.
 
-### 
+## FAQ
+
