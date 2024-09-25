@@ -54,4 +54,26 @@ Tidak. Aplikasi ini bergantung pada layanan online untuk memperpendek URL, sehin
 Anda bisa menambahkan layanan pemendek URL lain dengan memperluas penggunaan pustaka **PyShorteners**. Dokumentasi lengkap dapat ditemukan di [PyShorteners Docs](https://pyshorteners.readthedocs.io/).
 ### 3. Bagaimana cara mengatasi kesalahan 'Invalid URL'?
 Pastikan URL yang dimasukkan adalah URL yang benar dengan format yang valid, misalnya dimulai dengan `http://` atau `https://`. Jika URL tersebut valid tetapi masih terjadi kesalahan, silakan coba ulang atau cek apakah layanan pemendek URL sedang mengalami masalah.
+### 4. Bisakah saya menggunakan aplikasi ini untuk memperpendek URL massal?
+Saat ini, aplikasi ini hanya mendukung pemendekan URL satu per satu. Namun, fitur untuk memperpendek URL massal dapat ditambahkan di masa mendatang.
+### 5. Bagaimana cara saya menyimpan riwayat URL yang sudah diperpendek?
+Anda dapat menggunakan fitur **Export History** yang tersedia di aplikasi ini untuk menyimpan riwayat URL dalam file teks.
 
+## Masalah Umum
+### 1. **Error Saat Memperpendek URL**
+   - **Solusi**: Pastikan Anda memasukkan URL yang valid dan terhubung ke internet. Aplikasi hanya mendukung URL yang dimulai dengan `http://` atau `https://`.
+### 2. **QR Code Tidak Ditampilkan**
+- **Solusi**: Pastikan Anda telah menginstal pustaka **Pillow (PIL)** yang diperlukan untuk memproses gambar QR code. Instal menggunakan:
+     ```bash
+     pip install Pillow
+     ```
+### 3. **Aplikasi Tidak Merespons (Not Responding)**
+   - **Solusi**: Jika aplikasi tidak merespons saat memperpendek URL, periksa koneksi internet Anda atau coba restart aplikasi. Hal ini dapat terjadi jika ada masalah dengan layanan pemendek URL eksternal.
+
+## Lisensi
+Proyek ini dilisensikan di bawah [MIT License](LICENSE), yang berarti Anda bebas menggunakan, menyalin, memodifikasi, dan mendistribusikan kode ini, selama Anda memberikan kredit kepada penulis asli.
+
+## Kontak
+Jika Anda memiliki pertanyaan, masalah, atau masukan mengenai aplikasi ini, silakan hubungi kami melalui:
+- Email: [email@example.com](mailto:email@example.com)
+- GitHub Issues: [Laporkan masalah di sini](https://github.com/username/url-shortener/issues)
