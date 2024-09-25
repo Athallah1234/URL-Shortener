@@ -33,7 +33,7 @@ Untuk menginstal pustaka yang diperlukan, jalankan perintah berikut:
 ### Cara Menjalankan
 1. Clone repositori ini dengan ``git clone https://github.com/Athallah1234/URL-Shortener.git``
 2. Pastikan semua pustaka yang diperlukan telah diinstal dengan ``pip install -r requirements.txt``
-3. Jalankan skrip menggunakan Python dengan ``python run.py``
+3. Jalankan skrip menggunakan Python dengan ``python url_shortener.py``
 
 ### Penggunaan
 1. **Perpendek URL**: Masukkan URL yang ingin diperpendek dan klik tombol **Shorten**.
